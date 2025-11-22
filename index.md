@@ -5,7 +5,9 @@ TI:10113898707
 
 Desarrollo De Software 2025-2 Grupo: PREICA2502B020026
 
-S35 - Actividad de aprendizaje Tarea 01
+
+# S35 - Actividad de aprendizaje Tarea 01
+
 
 Los lenguajes de programación constituyen el medio fundamental a través del 
 cual los seres humanos codificamos instrucciones que las máquinas pueden 
