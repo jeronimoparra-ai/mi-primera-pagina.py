@@ -25,8 +25,7 @@ de almacenamiento de datos. Las variables representan contenedores dinámicos de
 información, mientras que las constantes preservan valores inmutables. Cada uno 
 posee un tipo de dato específico: enteros, reales, cadenas de texto o booleanos, 
 determinando las operaciones válidas sobre estos.
-
-Reflexionemos profundamente: la programación no es meramente una habilidad técnica, 
+la programación no es meramente una habilidad técnica, 
 sino una forma de pensamiento que exige precisión, lógica y creatividad simultáneamente. 
 Al diseñar algoritmos, modelamos la realidad mediante abstracciones digitales, 
 transformando problemas complejos en secuencias comprensibles de instrucciones. 
