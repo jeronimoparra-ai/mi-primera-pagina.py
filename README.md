@@ -7,6 +7,10 @@
 
 # S35 - Actividad de aprendizaje Tarea 01
 
+
+# Tarea 2 — Ejercicios de la Unidad 1 
+
+
 # Reto 1: Simula el comportamiento de la tortuga usando solo print() e input()
 def reto1():
     print("RETO 1: Tortuga avanzando horizontal")
