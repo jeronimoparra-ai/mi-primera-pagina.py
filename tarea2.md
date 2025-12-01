@@ -3,11 +3,19 @@ def reto1():
     print("RETO 1: Tortuga avanzando horizontal")
     pasos = int(input("Cuantos pasos quieres que avance? "))
     print("-" * pasos + ">")
+Creando una tortuga simulada... que da 50 pasos.
+-------------------------------------------------->
 
 #Reto 2: Tortuga bajando
 def reto2():   print("RETO 2: Tortuga bajando vertical")   
 pasos = (input("Cuantos pasos quieres bajar? ")) 
-
+¿Cuántos pasos quieres bajar? 5
+|
+|
+|
+|
+|
+v
      
 print ("|")
     
@@ -26,7 +34,15 @@ def reto3():
         print(" " * pasos_horizontal + "|")
     
     print(" " * pasos_horizontal + "v")
-
+    
+¿Cuántos pasos horizontales? 10
+¿Cuántos pasos verticales? 4
+---------->
+          |
+          |
+          |
+          |
+          v
 # Reto 4: Encapsula los comportamientos anteriores usando funciones
 posicion_x = 0
 
@@ -51,7 +67,24 @@ def reto4():
     adelante(5)
     abajo(3)
     mostrar_flecha()
+Dibujando forma de L:
 
+----->
+     |
+     |
+     |
+     v
+Dibujando forma personalizada:
+
+-------->
+        |
+        |
+        |
+        |
+        --->
+           |
+           |
+           v
     # Reto 5: La tortuga baja las escalas
 
 def escalon(horizontal, vertical):
@@ -67,3 +100,13 @@ def reto5():
     escalon(3, 2)
     escalon(3, 2)
     mostrar_flecha()
+ --->
+   |
+   |
+   --->
+       |
+       |
+       --->
+           |
+           |
+           v
