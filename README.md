@@ -6,7 +6,7 @@
 # Desarrollo De Software 2025-2 Grupo: PREICA2502B020026
 
 
-Mi primer Turtle
+# Mi primer Turtle
 
 
 # Reto 1: Simula el comportamiento de la tortuga usando solo print() e input()
